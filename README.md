@@ -14,7 +14,7 @@ The project is divided into two main tasks:
 1. Build a GNN to predict the energy of the spin glass system and analyze how learning changes with graph connectivity and magnetic field.
 2. Compare GNNs to Multi-Layer Perceptrons (MLPs) for learning both energy and magnetization of the system.
 
-This repository contains the **Task 1** implementation, where we train a GNN in a supervised manner to predict the energy of the spin glass system.
+This repository contains both the **Task 1** and **Task 2** implementation.
 
 ---
 
