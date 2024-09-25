@@ -1,6 +1,7 @@
 # AI Model for Physics Project
 
 ## Task 1: Graph Neural Network (GNN) for Spin Glass Systems
+## Task 2: Comparing the performance of GNN and MLPs
 
 ### Project Overview
 The goal of this project is to develop a Graph Neural Network (GNN) to study **spin glass systems**. A spin glass is a magnetic system represented as a graph, where:
